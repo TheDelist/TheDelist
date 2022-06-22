@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samet Kemal Ozdemir</h1>
 <h3 align="center">Payment Service Intern At Migros || 4rd-year Computer Engineering Student at Dokuz Eylul University</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thedelist&label=Profile%20views&color=0e75b6&style=flat" alt="thedelist" /> </p>
+
 - 🔭 I’m currently working on **Migros Mobile App**
 
 - 🌱 I’m currently learning **Node.js**
@@ -27,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thedelist&show_icons=true&locale=en&layout=compact" alt="thedelist" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedelist&show_icons=true&locale=en" alt="thedelist" /></p>
+
