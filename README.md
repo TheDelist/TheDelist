@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samet Kemal Ozdemir</h1>
-<h3 align="center">Junior Software Engineer At Garanti BBVA Tech || 4rd-year Computer Engineering Student at Dokuz Eylul University</h3>
+<h3 align="center">Junior Software Engineer At Garanti BBVA Tech </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedelist&label=Profile%20views&color=0e75b6&style=flat" alt="thedelist" /> </p>
 
-- 🔭 I’m currently working on **Investment Funds**
+- 🔭 I’m currently working on **Digital Assets**
 
 - 🌱 I’m currently learning **Java**
 
